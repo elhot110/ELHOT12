@@ -1,0 +1,160 @@
+
+body{
+    margin: 0;
+    background-color: rgb(12, 1, 1);
+
+}
+.cont{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.dad {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+    /* margin-top: 50PX; */
+    background-color: rgba(27, 27, 27, 0.959);
+    border-top-right-radius: 20px;
+    justify-content: center;
+    border-radius: 21px;
+    text-align: center;
+    width: 30%;
+    height: auto;
+    margin: auto;
+    /* margin-top: auto; */
+        /* margin-bottom: auto; */
+    margin-top: 50px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.icon{
+    /* border-image: 50%; */
+    background-image: url(./images/IMG-20240125-WA0030.jpg);
+    border-radius: 74%;
+    width: 144px;
+    height: 141px;
+    background-position: center;
+    background-size: cover;
+    /* justify-content: center; */
+
+    
+}
+span{
+    color: chartreuse;
+    
+}
+.text{
+    color: azure;
+}
+.btn{
+    align-items: center;
+    
+}
+.btn1{
+    width: 94%;
+    height: 45px;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgba(27, 27, 27, 0.959);
+    color: aliceblue;
+    border: 2px;
+    border: solid;
+    border-color:  rgba(102, 99, 99, 0.959);
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.btn2{
+    width: 94%;
+    height: 45px;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgba(27, 27, 27, 0.959);
+    color: aliceblue;display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    border: 2px;
+    border: solid;
+    border-color:  rgba(102, 99, 99, 0.959);
+
+}
+.btn3{
+    width: 94%;
+    height: 45px;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgba(27, 27, 27, 0.959);
+    color: aliceblue;
+    border: 2px;
+    border: solid;
+    border-color:  rgba(102, 99, 99, 0.959);
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.btn4{
+    width: 94%;
+    height: 45px;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgba(27, 27, 27, 0.959);
+    color: aliceblue;
+    border: 2px;
+    border: solid;
+    border-color:  rgba(102, 99, 99, 0.959);
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.btn5{
+    width: 94%;
+    height: 45px;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgba(27, 27, 27, 0.959);
+    color: aliceblue;
+    border: 2px;
+    border: solid;
+    border-color:  rgba(102, 99, 99, 0.959);
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.btn1:hover{
+    background-color: chartreuse ;
+    border-color: chartreuse;
+    transition: all 0.5s ease-in-out;
+}
+.btn2:hover{
+    background-color: chartreuse ;
+    border-color: chartreuse;
+    transition: all 0.5s ease-in-out;
+}
+.btn3:hover{
+    background-color: chartreuse ;
+    border-color: chartreuse;
+    transition: all 0.5s ease-in-out;
+}
+.btn4:hover{
+    background-color: chartreuse ;
+    border-color: chartreuse;
+    transition: all 0.5s ease-in-out;
+}
+.btn5:hover{
+    background-color: chartreuse ;
+    border-color: chartreuse;
+    transition: all 0.5s ease-in-out;
+    
+}
