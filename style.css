@@ -28,6 +28,7 @@ body{
     margin-top: 50px;
     margin-bottom: 10px;
     align-items: center;
+    padding:0 20px;
 }
 .icon{
     /* border-image: 50%; */
