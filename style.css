@@ -164,3 +164,11 @@ span{
         width: 300px;
     }
 }
+h2{
+    background: linear-gradient(to right,rgb(126, 12, 78),rgba(0, 255, 64, 0.733),rgb(255, 187, 0));
+         -webkit-text-fill-color: transparent;
+    background-clip: text;
+   /* transform: scale(1.2); */
+   
+    
+}
